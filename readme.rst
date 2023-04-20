@@ -8,17 +8,17 @@ Introduction
 It's time to practice and solidify the skills you learned in this unit. 
 
 
-.. warning:: Independent work
+Independent work
+----------------
   
-   This is an individual assignment. Please do not collaborate with your
-   peers or share your work until the project is reviewed as a class.
+This is an individual assignment. Please do not collaborate with your
+peers or share your work until the project is reviewed as a class.
 
 
 Setup
 =====
 
-1. `Click here <https://ed.devmountain.com/materials/exercises/assessment-data.zip>`_ to 
-   download the code files you need to for this project.
+1. Download this GitHub repository.
 
 2. Navigate to the files on the command line.
 
@@ -33,13 +33,17 @@ needed.
 
 **Submit a diagram of your database for this project.** 
 
-.. note:: Drawing Tools
+Note: Drawing Tools
+-------------------
 
-	 You can use `https://www.dbdesigner.net/` 
-	 (or `https://draw.io` or `https://drawings.google.com/`) to 
-	 create your diagram. Make sure you specify your relationships between 
-	 tables in your diagram. 
-  
+You can use `https://www.dbdesigner.net/` 
+(or `https://draw.io` or `https://drawings.google.com/`) to 
+create your diagram. Make sure you specify your relationships between 
+tables in your diagram. 
+
+Submitting Your Diagram
+-----------------------
+
 When you're finished with your drawing, either
 take a screenshot or download a PDF of you diagram, add it to this
 repository, and push it to Github. 
@@ -207,6 +211,9 @@ Last, let's add the ability to delete a book from our list.
 
 #. Now you can delete books!
 
+
+Submitting Your Assessment
+==========================
 
 **Be sure to push your code to GitHub for this assignment and turn your link in on Frodo!**
 
