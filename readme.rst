@@ -217,8 +217,6 @@ Submitting Your Assessment
 
 **Be sure to push your code to GitHub for this assignment and turn your link in on Frodo!**
 
-|
-
 **To pass this assessment you must score at least 15/21.**
 
 Extra credit is not available on this version of the assessment.
